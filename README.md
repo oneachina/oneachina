@@ -27,7 +27,9 @@ Give me some "spiritual food" please 😭😭 <br/>
 ---
 
 <p align="left">
-  <img height="200" src="https://github-widgetbox.vercel.app/api/profile?username=oneachina&data=followers,repositories,stars,commits&theme=gruvbox" alt="GitHub Statistics" />
+  <a href="https://nice-readme.vercel.app/github-stats" target="_blank" rel="noopener noreferrer">
+    <img src="https://helio-github-stats.vercel.app/api?username=oneachina&custom_title=GitHub+Stats&theme=default&title_color=2f80ed&text_color=434d58&icon_color=4c71f2&ring_color=2f80ed&border_color=e4e2e2&hide_border=false&locale=en&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=default&show_icons=false&include_all_commits=false&line_height=25&text_bold=true&disable_animations=false&number_format=short&commits_year=2026" alt="GitHub Stats" width="466" />
+  </a>
 </p>
 
 ---
