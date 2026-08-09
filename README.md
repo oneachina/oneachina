@@ -1,28 +1,15 @@
-## Hi there 👋
-~~I am from Guangdong, China (Yes, a native Cantonese) <br/>
-我来自广东 (没错是广东人)~~ <br/> 
+## 👋 Hello, I'm a Native Cantonese from Guangdong, China
+I am primarily focused on Minecraft Fabric Mod (Java) development
 
-I am primarily focused on Minecraft Fabric Mod (Java) development 🚀 <br/>
-我主要面向 Minecraft Fabric Mod (Java) 开发 🚀 <br/>
+Fairly familiar with Paper Plugin & Rust APP development
 
-Fairly familiar with Bukkit plugin development 🛠️ <br/>
-较为熟悉 Bukkit 插件编写 🛠️ <br/>
+And now Currently learning Rust
 
-Currently learning Kotlin (I can read it, but don't ask me to write it yet. Don't laugh me TAT) <br/>
-目前正在学习 Kotlin (处于“看得懂，但别让我写”的阶段 别笑我TAT) <br/>
+> If you like my projects, please ⭐ star them!
 
-Possess a foundation in C++ ~~(Participated in CSP-J)~~ ~~(And of course, I have forgotten everything 😭)~~ <br/>
-并具备 C++ 基础 ~~(参加过 CSP-J)~~ ~~(当然，已经全忘了 😭)~~ <br/>
+### Languages I Use
 
-If you like my projects, consider giving them a star ⭐ <br/>
-如果你喜欢我的项目，不妨点个 star ⭐ <br/>
-
-Give me some "spiritual food" please 😭😭 <br/>
-给点精神粮食也好哇 😭😭 <br/>
-
-### Languages I Use / 我常用的语言
-
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,cpp&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,rust,java,cpp&theme=light)](https://skillicons.dev)
 
 ### Stauts
 ![pr](https://github-pr-stats-five.vercel.app/api/github-pr-stats?username=Neamyoo-dev&mode=repo-aggregate&status=merged&min_stars=10&limit=100)
