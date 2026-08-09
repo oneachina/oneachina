@@ -1,5 +1,5 @@
 ## 👋 Hello, I'm a Native Cantonese from Guangdong, China
-I am primarily focused on Minecraft Fabric Mod (Java) development
+I am primarily focused on Minecraft Fabric Mod development
 
 Fairly familiar with Paper Plugin & Rust APP development
 
